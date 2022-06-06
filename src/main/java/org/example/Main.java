@@ -4,5 +4,6 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Hello samu");
         System.out.println("Java Program");
+        System.out.println("Java");
     }
 }
